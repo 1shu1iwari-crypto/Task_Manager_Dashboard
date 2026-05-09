@@ -2,6 +2,13 @@
 
 A full-stack, responsive Task Management application built with a modern Neo-Brutalism design aesthetic. Features include secure user authentication, a RESTful API, real-time WebSocket updates, PostgreSQL database integration, and an analytics module powered by Pandas and NumPy.
 
+## Screenshots
+
+### Login Screen
+![Login Screen](images/login.png)
+
+### Task Dashboard
+![Task Dashboard](images/dashboard.png)
 ## Features
 
 - **Authentication**: Secure registration, login, and session-based auth.
