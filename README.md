@@ -5,10 +5,10 @@ A full-stack, responsive Task Management application built with a modern Neo-Bru
 ## Screenshots
 
 ### Login Screen
-![Login Screen](images/login.png)
+![Login Screen](images/Login.png)
 
 ### Task Dashboard
-![Task Dashboard](images/dashboard.png)
+![Task Dashboard](images/DashBoard.png)
 ## Features
 
 - **Authentication**: Secure registration, login, and session-based auth.
